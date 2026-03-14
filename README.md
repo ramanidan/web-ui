@@ -145,6 +145,10 @@ TARGETPLATFORM=linux/arm64 docker compose up --build
   - Default VNC password: "youvncpassword"
   - Can be changed by setting `VNC_PASSWORD` in your `.env` file
 
+## Tools Comparison
+
+- **Anchor Browser:** [Anchor Browser](https://anchorbrowser.io) is an agentic browser infrastructure platform for AI agents and browser automation. It offers fully managed, humanized Chromium instances that bypass bot detection and provides enterprise-grade compliance and scalability.
+
 ## Changelog
 - [x] **2025/01/26:** Thanks to @vvincent1234. Now browser-use-webui can combine with DeepSeek-r1 to engage in deep thinking!
 - [x] **2025/01/10:** Thanks to @casistack. Now we have Docker Setup option and also Support keep browser open between tasks.[Video tutorial demo](https://github.com/browser-use/web-ui/issues/1#issuecomment-2582511750).
